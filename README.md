@@ -1,6 +1,8 @@
 # React + Vite
 A  stunning GSAP-powered cocktail website using React and Tailwind CSS—a modern, scroll-driven experience packed with advanced animations.
 
+Check it at - https://gsap-cocktails-tawny.vercel.app/
+
 # Features 
 👉 SplitText Animations: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
 
