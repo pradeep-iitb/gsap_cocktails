@@ -1,12 +1,23 @@
 # React + Vite
+A  stunning GSAP-powered cocktail website using React and Tailwind CSS—a modern, scroll-driven experience packed with advanced animations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features 
+👉 SplitText Animations: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
 
-Currently, two official plugins are available:
+👉 ScrollTrigger Effects: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Parallax Scrolling: Add immersive depth with smooth parallax effects that respond to user scroll.
 
-## Expanding the ESLint configuration
+👉 Pinned Sections: Lock sections in view while animating content for engaging scroll experiences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 Scroll-Synced Video Playback: Sync video progress with scroll position for cinematic storytelling.
+
+👉 Image Masking Effects: Use scroll-triggered pins and masks for visually striking image transitions.
+
+👉 Custom Carousel: Build a fully customized carousel with multiple navigation options and animated slides.
+
+👉 Seamless Timeline Animations: Craft smooth animation timelines that span across multiple sections.
+
+👉 Responsive Design: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
+
+And many more, including enhanced security and optimized video performance!
